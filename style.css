@@ -1,0 +1,79 @@
+body{
+    background-image: url('https://celes.club/uploads/posts/2022-10/1667208012_5-celes-club-p-krasivii-fon-lesa-krasivo-5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: Bradley Hand, cursive;
+    color: #12486B;
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 2px;
+}
+
+h2{font-family: Bradley Hand, cursive;
+    color: #12486B;
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 2px;
+}
+
+.header{
+    background-image: url('https://www.shutterstock.com/shutterstock/videos/5737769/thumb/1.jpg?ip=x480');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+
+    border: 2px solid black;
+
+    margin: 10px;
+}
+
+a{
+    color: #12486B;
+    
+}
+
+.content{
+     background-image: url('https://www.shutterstock.com/shutterstock/videos/5737769/thumb/1.jpg?ip=x480');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+
+    border: 2px solid black;
+
+    width: 200px;
+
+
+    margin: 10px;
+}
+
+.form{
+     background-image: url('https://www.shutterstock.com/shutterstock/videos/5737769/thumb/1.jpg?ip=x480');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+
+    border: 2px solid black;
+
+    width: 200px;
+
+    margin: 10px;
+}
+
+.table{
+     background-image: url('https://www.shutterstock.com/shutterstock/videos/5737769/thumb/1.jpg?ip=x480');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+
+    border: 2px solid black;
+
+    width: 500px;
+
+    margin: 10px;
+}
